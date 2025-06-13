@@ -1,9 +1,41 @@
 [
     {
         "name": "Domination",
-        "victoryScreenHeader": "Capture all enemy Capitals\nto win!",
+        "victoryScreenHeader": "Capture all enemy Capitals to win!",
         "milestones": ["Capture all capitals"],
         "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+],
+[
+    {
+        "name": "Cultural",
+        "victoryScreenHeader": "Complete the social tree to win!",
+        "milestones": ["Complete [1] Policy Branches"],
+        "victoryString": "A world at your fingers, fiddle to play. Development is the key of the Homo Sapien species. The difference between the civilised and barbarians, The value of your nation will be spoken upon generations to come!",
+    }
+],
+[
+    {
+        "name": "Scientific",
+        "victoryScreenHeader": "Create a Spaceship to win!",
+        "milestones": ["Add all units in the requiredSpaceshipParts field of this victory to the capital"],
+        "victoryString": "A blast to a different arena. Science is the epoch of humankind, the derivative to innovation and the supplement to human progression. Your nation the (Au) golden standard will emboss themselves in human history!",
+    }
+],
+[
+    {
+        "name": "Religious",
+        "victoryScreenHeader": "Become the world religion!",
+        "milestones": ["Become the world religion"],
+        "victoryString": "You are right. Your belief exalted above the rest in the comforts of your God and your heaven. Pilgrimage to your holy city will become second nature to the world. Your nation is the standard in what others behold for themselves!",
+    }
+],
+[
+    {
+        "name": "Diplomatic",
+        "victoryScreenHeader": "Become the world leader!",
+        "milestones": ["Win diplomatic vote"],
+        "victoryString": "You call the shots. The world has delegated you to be the Aurator of the world, the mask that curreates the inner-workings of international relations. Your nation is the puppetmaster of the world!",
     }
 ]
